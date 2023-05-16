@@ -6,7 +6,7 @@ title: Vittawat Sootawee
 thumbnail: /assets/people/vittawat.jpg
 position: member
 metaDescription: Undergraduate student
-order: 6
+order: 1
 ---
 
 Vittawat Sootawee is currrently an undergraduate student at the Department of Biomedical Engineering at Mahidol University.
