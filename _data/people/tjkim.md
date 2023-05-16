@@ -1,19 +1,23 @@
 ---
 template: BlogPost
-path: /people/jypark
-date: 2022-04-23T06:15:50.738Z
-title: June-Young Park
-thumbnail: /assets/people/jypark.jpg
+path: /people/tjkim
+date: 2023-05-16T06:15:50.738Z
+title: Tae-Joon Kim
+thumbnail: /assets/people/tjkim.jpg
 position: member
-metaDescription: Master Student
+metaDescription: Assistant Professor
 order: 1
 ---
+## Assistant Professor
+- Department of Neurology, Ajou University School of Medicine, Ajou University Medical Center
+- 164, Worldcup-ro, Yeongtong, Suwon, Gyeonggi, Republic of Korea
+- E-mail: tjkim23@ajou.ac.kr
 
 ## Educational Background
-- MS Student in Leading Convergence of Healthcare and Medicine, Institute of Science & Technology (ALCHeMIST), Ajou University, Suwon, Korea
-- BS in Department of Information and Communication Software, Sangji University, Wonju, Korea
+- Ph.D. in Translational Medicine, Seoul National University College of Medicine, Seoul, Korea
+- MS in Neuroscience, Seoul National University College of Medicine, Seoul, Korea
+- Doctor of Medicine, Seoul National University College of Medicine, Seoul, Korea
+- BS in Physics, Department of Physics, Seoul National University, Seoul, Korea
 
-## Interested Research
-- Deep Learning
-- Graph Neural Network
-- Medical Image & Bio Signal Analysis
+## Work Experiences
+- 2018-2020: Clinical Assistant Professor, Department of Neurology, Ajou University School of Medicine, Suwon, Korea
