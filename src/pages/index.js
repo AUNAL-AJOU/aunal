@@ -32,11 +32,6 @@ const IndexPage = ({
       <HeroHeader />
       <h2>Research</h2>
       <div className="two-grids outer-container">{ResearchImages}</div>
-      <h2>Funders</h2>
-      <div className="primary-content">{home.funders}</div>
-      <div className="grids outer-container small small-on-mobile">
-        {FunderLogos}
-      </div>
       <h2>Collaborators</h2>
       <div className="primary-content">{home.collaborators}</div>
       {/* <div className="grids 5">
@@ -57,12 +52,9 @@ export const pageQuery = graphql`
           title
           description
           interests
-          funders
+          
           collaborators
-          funder_logos {
-            dark
-            light
-          }
+        
           title
           research {
             dark
