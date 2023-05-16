@@ -6,7 +6,7 @@ title: June-Young Park
 thumbnail: /assets/people/jypark.jpg
 position: member
 metaDescription: Master Student
-order: 1
+order: 2
 ---
 
 ## Educational Background
