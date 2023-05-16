@@ -20,11 +20,6 @@ const IndexPage = ({
     </div>
   ));
 
-  const FunderLogos = home.funder_logos[theme].map((imgPath) => (
-    <div key={imgPath} className="image-container funder">
-      <img src={imgPath} alt={imgPath} />
-    </div>
-  ));
 
   return (
     <Layout>
