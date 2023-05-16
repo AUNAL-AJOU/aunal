@@ -10,8 +10,7 @@
   
     "research": {
       "light": [
-        "/assets/logos/science-of-science-light.png",
-        "/assets/logos/applied-ml-nlp-light.png"
+        "/assets/logos/lab_figure.png",
       ],
       "dark": [
         "/assets/logos/science-of-science-dark.png",
