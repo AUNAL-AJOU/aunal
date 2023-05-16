@@ -9,9 +9,11 @@
     "interests": "Applied Machine Learning & Deep Learning | NeuroImage & NeuroSignal Data Analysis | Graph Neural Network for Medical Image",
   
     "research": {
-      "light": 
+      "light": [
         "/assets/logos/lab_figure.png",
-      "dark": [
+        "/assets/logos/applied-ml-nlp-light.png"
+        ],
+        "dark": [
         "/assets/logos/science-of-science-dark.png",
         "/assets/logos/applied-ml-nlp-dark.png"
       ]
