@@ -18,13 +18,6 @@ const PeopleLink = ({ data }) => (
           {data.frontmatter.title}
         </Link>
       </h2>
-//       {data.frontmatter.position !== "alumni" ? (
-//         <div className="post-meta">{data.frontmatter.metaDescription}</div>
-//       ) : (
-//         <div className="post-meta">
-//           {`Joined as ${data.frontmatter.metaDescription}, ${data.frontmatter.endYear}`}
-//         </div>
-//       )}
     </header>
   </article>
 );
