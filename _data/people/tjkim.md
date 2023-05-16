@@ -6,7 +6,7 @@ title: Tae-Joon Kim, MD
 thumbnail: /assets/people/tjkim.jpg
 position: member
 metaDescription: Assistant Professor
-order: 1
+order: 0
 ---
 ## Assistant Professor
 - Department of Neurology, Ajou University School of Medicine, Ajou University Medical Center
