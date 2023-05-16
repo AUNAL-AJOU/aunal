@@ -27,8 +27,6 @@ const IndexPage = ({
       <HeroHeader />
       <h2>Research</h2>
       <div className="two-grids outer-container">{ResearchImages}</div>
-      <h2>Collaborators</h2>
-      <div className="primary-content">{home.collaborators}</div>
       {/* <div className="grids 5">
         {Collaborator}
       </div> */}
@@ -48,7 +46,7 @@ export const pageQuery = graphql`
           description
           interests
           
-          collaborators
+          
         
           title
           research {
