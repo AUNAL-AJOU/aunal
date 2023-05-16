@@ -1,70 +1,45 @@
 - title: "Usefulness of arterial spin labeling perfusion as an initial evaluation of status epilepticus"
   authors: Kim TJ*, Choi JW*, Han M, Kim BG, Park SA, Huh K, Choi JY
-  journal: Scientific reports 11 
+  journal: Scientific reports 2021 Dec 20;11:24218.
   url: https://www.nature.com/articles/s41598-021-03698-7#Abs1
   year: 2021
-- title: "Intellectual synthesis in mentorship determines success in academic careers"
-  authors: JF Liénard, T Achakulvisut, DE Acuna, SV David
-  journal: Nature communications 9 (1), 1-13
-  url: https://www.nature.com/articles/s41467-018-07034-y
-  year: 2018
-- title: "DeepCut: A Thai word tokenization library using Deep Neural Network"
-  authors: R Kittinaradorn, T Achakulvisut, K Chaovavanich, K Srithaworn, P Chormai, C Kaewkasi, T Ruangrong, K Oparad
-  journal: ""
-  url: https://github.com/rkcosmos/deepcut
-  year: 2019
-- title: "Claim extraction in biomedical publications using deep discourse model and transfer learning"
-  authors: T Achakulvisut, C Bhagavatula, D Acuna, K Kording
-  journal: arXiv preprint arXiv:1907.00962
-  url: https://arxiv.org/pdf/1907.00962.pdf
-  year: 2019
-- title: "Point of view: Improving on legacy conferences by moving online"
-  authors: Titipat Achakulvisut, Tulakan Ruangrong, Isil Bilgin, Sofie Van Den Bossche, Brad Wyble, Dan FM Goodman, Konrad P Kording
-  journal: Elife 9, e57892
-  url: https://elifesciences.org/articles/57892
-  year: 2020
-  pdf: /assets/publications/titipat-elife-2020.pdf
-- title: "Pyglmnet: Python implementation of elastic-net regularized generalized linear models"
-  authors: M Jas, T Achakulvisut, A Idrizović, D Acuna, M Antalek, V Marques, ...
-  journal: Journal of Open Source Software 5 (47)
-  url: https://biblio.ugent.be/publication/8650816/file/8650817
-  year: 2020
-- title: "neuromatch: Algorithms to match scientists"
-  authors: T Achakulvisut, T Ruangrong, DE Acuna, B Wyble, D Goodman, K Kording
-  journal: eLife
-  url: https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists
-  year: 2020
-- title: "Pubmed parser: a Python parser for PubMed Open-Access XML subset and MEDLINE XML dataset XML dataset"
-  authors: T Achakulvisut, DE Acuna, K Kording
-  journal: Journal of Open Source Software 5 (46), 1979
-  url: https://joss.theoj.org/papers/10.21105/joss.01979.pdf
-  year: 2020
-- title: "Neuromatch Academy: Teaching Computational Neuroscience with global accessibility"
-  authors: T van Viegen, A Akrami, K Bonnen, E DeWitt, A Hyafil, H Ledmyr, ...
-  journal: Trends in Cognitive Sciences
-  url: https://www.sciencedirect.com/science/article/abs/pii/S1364661321000954?dgcid=author
-  year: 2020
-- title: "Towards Democratizing and Automating Online Conferences: Lessons from the Neuromatch Conferences"
-  authors: T Achakulvisut, T Ruangrong, P Mineault, TP Vogels, MAK Peters, ...
-  journal: Trends in Cognitive Sciences
-  url: https://www.sciencedirect.com/science/article/abs/pii/S1364661321000097
+- title: "Population pharmacokinetic model development and its relationship with adverse events of oxcarbazepine in adult patients with epilepsy. "
+  authors: Jang Y*, Yoon S*, Kim TJ*, Lee S, Yu KS, Jang IJ, Chu K¶, Lee SK¶
+  journal: Scientific reports 2021 Mar 18;11(1):6370.
+  url: https://www.nature.com/articles/s41598-021-85920-0
   year: 2021
-  pdf: /assets/publications/titipat-tics-2021.pdf
-- title: "AI Builders: Teaching Thai Students to BuildEnd-to-End Machine Learning Projects Online"
-  authors: C Polpanumas, P Limkonchotiwat, B Matupumanon, C Chaksangchaichot, N Chumlek, N Phaphoom, P Siwatammarat, P Laohapiengsak, S Amornpornwiwat, W Daroontham1, E Chuangsuwanich, K Kulruchakorn, SNutanong, T Achakulvisut
-  journal: 2021 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)
-  year: 2021
-  url: https://ieeexplore.ieee.org/document/9678620
-  pdf: /assets/publications/aibuilders-tale2021.pdf
-- title: "Multitask learning via pseudo-label generation and ensemble prediction for parasitic egg cell detection: IEEE ICIP Challenge 2022"
-  authors: Aung ZH, Srithaworn K, Achakulvisut T
-  journal: IEEE International Conference on Image Processing (ICIP)
-  year: 2022
-  url: https://ieeexplore.ieee.org/abstract/document/9897464
-  pdf: /assets/publications/parasitic-detection-ieeeicip2022.pdf
-  github: https://github.com/biodatlab/icip-challenge-2022
-- title: "Machine Learning Assisted Real-Time PCR and High-Resolutation Melt (qPCR-HRM) Analysis for SARS-CoV-2 Variant Identification"
-  authors: S Promja, J Puenpa, T Achakulvisut, Y Poovorawan, Y Su, P Athamanolap, B Lertanatawong
-  journal: Analytical Chemistry
-  year: 2023
-  url: https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c05112
+- title: "HLAs associated with perampanel-induced psychiatric adverse effects in a Korean population."
+  authors: Jang Y*, Kim TJ*, Moon J*, Yang TW, Kim KT, Park BS, Lim JA, Jun JS, Lee ST, Jung KH, Park KI, Jung KY, Chu K¶, Lee SK¶
+  journal: Scientific reports 2020 Aug 12;10(1):13667.
+  url: https://www.nature.com/articles/s41598-020-70601-1
+  year: 2020
+- title: "Brain regions associated with periodic leg movements during sleep in restless legs syndrome"
+  authors: Kim TJ*, Cha KS*, Lee S, Yang TW, Kim KT, Park BS, Jun JS, Lim JA, Byun JI, Sunwoo JS, Shin JW, Kim KH, Lee SK¶, Jung KY¶
+  journal: Scientific reports 2020 Jan 31;10(1):1615.
+  url: https://www.nature.com/articles/s41598-020-58365-0
+  year: 2020
+- title: "Prevalence and Characteristics of Restless Legs Syndrome in Korean Adults: A Study in Two Independent Samples of the General Population"
+  authors: Kim TJ*, Cha KS*, Lee S, Yang TW, Kim KT, Park BS, Jun JS, Lim JA, Byun JI, Sunwoo JS, Shin JW, Kim KH, Lee SK¶, Jung KY¶
+  journal: Neuroepidemiology (2019) 52 (3-4): 193–204
+  url: https://karger.com/ned/article/52/3-4/193/226978/Prevalence-and-Characteristics-of-Restless-Legs
+  year: 2019
+- title: "The effect of dim light at night on cerebral hemodynamic oscillations during sleep: A near-infrared spectroscopy study"
+  authors: Kim TJ, Lee BU, Sunwoo JS, Byun JI, Moon J, Lee ST, Jung KH, Chu K, Kim M, Lim JM, Lee E, Lee SK, Jung KY¶
+  journal: Chronobiology International 2017;34(10):1325-1338
+  url: https://www.tandfonline.com/doi/full/10.1080/07420528.2017.1363225
+  year: 2017
+- title: "Anti-LGI1 encephalitis is associated with unique HLA subtypes"
+  authors: Kim TJ*, Lee ST*, Moon J, Sunwoo JS, Byun JI, Lim JA, Shin YW, Jun JS, Lee HS, Lee WJ, Yang AR, Choi Y, Park KI, Jung KH, Jung KY, Kim M, Lee SK¶, Chu K¶
+  journal: Annals of Neurology 2017 Feb;81(2):183-192
+  url: https://onlinelibrary.wiley.com/doi/10.1002/ana.24860
+  year: 2017
+- title: "HLA-B*40:02 and DRB1*04:03 are risk factors for oxcarbazepine-induced maculopapular eruption"
+  authors: Moon J*, Kim TJ*, Lim JA, Sunwoo JS, Byun JI, Lee ST, Jung KH, Park KI, Jung KY, Jeon D, Yu KS, Jang IJ, Chu K¶, Lee SK¶
+  journal: Epilepsia 2016 Nov;57(11):1879-1886
+  url: https://onlinelibrary.wiley.com/doi/10.1111/epi.13566
+  year: 2016
+- title: "Clinical manifestations and outcomes of the treatment of patients with GABAB encephalitis"
+  authors: Kim TJ, Lee ST¶, Shin JW, Moon J, Lim JA, Byun JI, Shin YW, Lee KJ, Jung KH, Kim YS, Park KI, Chu K, Lee SK
+  journal: Journal of Neuroimmunology 2014 May 15;270(1-2):45-50
+  url: https://www.sciencedirect.com/science/article/pii/S0165572814000617?via%3Dihub
+  year: 2014
