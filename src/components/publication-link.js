@@ -8,15 +8,7 @@ const PublicationLink = ({ publication }) => {
       : publication.journal
     : publication.year;
 
-  const secondLinePdf = publication.pdf ? (
-    <>
-      &nbsp;&#183;&nbsp;
-      <a href={publication.pdf} target="_blank" rel="noopener noreferrer">
-        [PDF]
-      </a>
-    </>
-  ) : null;
-
+ 
   const secondLineGitHub = publication?.github ? (
     <>
       &nbsp;&#183;&nbsp;
