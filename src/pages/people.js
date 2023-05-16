@@ -34,10 +34,7 @@ const PeoplePage = ({
       <div className="grids small" style={{ marginBottom: "32px" }}>
         {currentPeople}
       </div>
-      <h2>Previous lab members</h2>
-      <div className="grids small" style={{ marginBottom: "32px" }}>
-        {prevPeople}
-      </div>
+      
     </Layout>
   );
 };
@@ -66,7 +63,7 @@ export const pageQuery = graphql`
             thumbnail
             metaDescription
             position
-            endYear
+            
           }
         }
       }
