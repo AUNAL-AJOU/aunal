@@ -31,36 +31,31 @@ const ContactPage = ({ data: { site } }) => {
           <h1 className="post-title">Contact us</h1>
           <div className="primary-content">
             If you are interested to join the lab, collaborate, or inquire,
-            please do not hesitate to send Titipat an email (titipat.ach [AT]
-            mahidol [DOT] edu) or using the form in this page &rarr;
+            please do not hesitate to send Tae-Joon Kim an email (tjkim23@ajou.ac.kr) or using the form in this page &rarr;
           </div>
           <div className="primary-content">
             <b>Undergraduate students: </b>
             To discuss potential research projects or ideas, feel free to reach
-            out to Titipat and arrange a brief meeting.
+            out to Tae-Joon Kim and arrange a brief meeting.
           </div>
           <div className="primary-content">
             <b>Graduate students: </b>
             Prospective students interested in pursuing a Masters or PhD program
-            in Biomedical Engineering at Mahidol University can submit a CV
+            in Leading Convergence of Healthcare and Medicine, Institute of Science & Technology at Ajou University can submit a CV
             along with a brief statement of their research interests before
-            applying. Additionally, they can arrange a discussion with Titipat
-            in advance. Titipat is also available for co-advising in various
-            departments outside Mahidol University, such as the Department of
-            Computer Engineering at Mahidol University, Vidyasirimedhi Institute
-            of Science and Technology (VISTEC), or Chulalongkorn University,
-            Thailand, providing multiple options for interested students.
+            applying. Additionally, they can arrange a discussion with Tae-Joon Kim
+            in advance. 
           </div>
           <div className="primary-content">
             <b>Other positions: </b>The lab is always actively looking for
             interns, researchers, and developers. If you are interested in doing
             these position (locally or remotely), please also do not hesitate to
-            email Titipat to discuss.
+            email Tae-Joon Kim to discuss.
           </div>
           <div className="primary-content">
             <b>Office: </b>
-            Mahidol University, Engineering Building 3, 3rd Floor 999
-            Phutthamonthon 4 Road, Salaya, Nakhon Pathom, Thailand 73170
+            Ajou University, 
+            164, Worldcup-ro, Yeongtong, Suwon, Gyeonggi, Republic of Korea
           </div>
         </div>
         <div>
