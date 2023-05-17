@@ -7,7 +7,7 @@ export default (props) => (
     <Link to="/people">People</Link>
     <Link to="/publications">Publications</Link>
     <Link to="/blog">Blogs</Link>
-    <Link to="/resources">Resources</Link>
+ 
     <Link to="/contact">Contact</Link>
     <ThemeChanger />
   </nav>
