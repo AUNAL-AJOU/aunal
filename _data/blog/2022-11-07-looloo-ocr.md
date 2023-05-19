@@ -2,8 +2,8 @@
 template: BlogPost
 path: /blog/looloo-ocr-2022
 date: 2022-11-07T07:08:53.137Z
-title: Transformer-based Optical Character Recognition (OCR) for Thai-English documents
-thumbnail: "/assets/blogs/ocr.jpg"
+title: Generative model based EEG Background abnormality detection
+thumbnail: "/assets/blogs/neuron.png"
 metaDescription:
 ---
 
