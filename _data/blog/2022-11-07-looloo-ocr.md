@@ -2,7 +2,7 @@
 template: BlogPost
 path: /blog/looloo-ocr-2022
 date: 2023-07-17T07:08:53.137Z
-title: 아주대학교 융합의과학과 박준영 대학원생, </br>대한수면연구학회 우수학술상 수상
+title: 아주대학교 융합의과학과 박준영 대학원생, 대한수면연구학회 우수학술상 수상
 thumbnail: "/assets/blogs/blog_awards.png"
 metaDescription:
 ---
