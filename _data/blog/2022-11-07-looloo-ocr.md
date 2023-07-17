@@ -1,16 +1,14 @@
 ---
 template: BlogPost
 path: /blog/looloo-ocr-2022
-date: 2022-11-07T07:08:53.137Z
-title: Generative model based EEG Background abnormality detection
+date: 2023-07-17T07:08:53.137Z
+title: 융합의과학과 박준영 대학원생, 대한수면연구학회 우수학술상 수상
 thumbnail: "/assets/blogs/neuron.png"
 metaDescription:
 ---
+![Pic](https://octodex.github.com/images/minion.png)
+융합의과학과 박준영 대학원생(지도교수: 김태준)이 지난 7월 8일부터 9일 양일 개최된 2023년 대한수면연구학회 학술대회에서 구연 부문 우수학술상을 수상했다.
 
-A majority of Thai-English documents exist in a physical paper format, making digitization and information retrieval considerably challenging.
-Current Thai-English Optical Character Recognition (OCR) systems are still limited in accessibility and lack evaluation on various downstream real-world scenarios.
-They have a high character error rate measure of performance. To improve the current state of Thai-English OCR systems, we propose a transformer-based OCR (TrOCR) pretrained on a large synthetic image dataset generated from a collection of Thai and English corpora.
+박준영 대학원생은 2D 얼굴 사진만을 활용하여 수면무호흡증을 스크리닝하고 진단하는 다양한 머신러닝(Machine Learning) 방법을 연구·개발한 내용을 발표(주제: Efficient Machine Learning Methods using 2D Photographs for OSA Screening and Diagnosis)해 수상자에 선정됐다.
+[기사원문](https://www.ajoumc.or.kr/board/commBoardMDNewsView.do?no=66435)
 
-We show that our model can be fine-tuned for various downstream image modality tasks, including printed and handwritten text-line images. Our fine-tuned model achieved character error rates (CER) of 0.73%, 1.32%, and 3.14% on scanned, camera-captured, and handwritten recognition respectively. The accuracy of our OCR system which measures the number of correct predictions to the total number of predictions is at 94.10%, 93.82%, and 86.74% respectively. The model can also be fine-tuned on a smaller dataset while still preserving the CER. We believe that our model and evaluation provide the next milestone developments for the current state of the Thai-English OCRs.
-
-This work is lead by Atirut Boribalburephan, Peeranat Buabang, and Shinawatra. If you are interested, see our [blog on Looloo's website](https://loolootech.com/ocr/).
