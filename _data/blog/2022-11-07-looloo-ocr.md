@@ -6,7 +6,8 @@ title: 아주대학교 융합의과학과 박준영 대학원생, 대한수면�
 thumbnail: "/assets/blogs/blog_awards.png"
 metaDescription:
 ---
-<p align="center"><img src="/static/assets/blogs/blog_1.jpg"></p></br>
+
+<p align="center"><img src="https://raw.githubusercontent.com/AUNAL-AJOU/aunal/main/static/assets/blogs/blog_1.jpg"></p></br>
 아주대학교 의과대학 대학원 융합의과학과 박준영 대학원생(지도교수: 김태준)이 지난 7월 8일부터 9일 양일 개최된 2023년 <strong>대한수면연구학회</strong> 학술대회에서 구연 부문 <strong>우수학술상</strong>을 수상했다.
 </br>
 </br>
