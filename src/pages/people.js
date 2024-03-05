@@ -34,11 +34,6 @@ const PeoplePage = ({
       <div className="grids small" style={{ marginBottom: "32px" }}>
         {currentPeople}
       </div>
-      // <h1>Alunmi</h1>
-      // <div className="grids small" style={{ marginBottom: "32px" }}>
-      //   {currentPeople}
-      // </div>
-      
     </Layout>
   );
 };
