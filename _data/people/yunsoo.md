@@ -3,7 +3,7 @@ template: BlogPost
 path: /people/yunsoo
 date: 2022-04-23T06:15:50.738Z
 title: Yun-Soo Kim
-thumbnail: /assets/people/nyancat.png
+thumbnail: /assets/people/nyan.png
 position: member
 metaDescription: Post-Doctoral Researcher
 order: 4
