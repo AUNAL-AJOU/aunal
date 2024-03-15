@@ -2,10 +2,10 @@
 template: BlogPost
 path: /people/tjkim
 date: 2023-05-16T06:15:50.738Z
-title: Tae-Joon Kim, MD
+title: Tae-Joon Kim, MD, Ph.D
 thumbnail: /assets/people/tjkim2-2.jpg
 position: member
-metaDescription: Assistant Professor
+metaDescription: Associate Professor
 order: 1
 ---
 ## Assistant Professor
