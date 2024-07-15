@@ -35,6 +35,7 @@ const PeoplePage = ({
         {currentPeople}
       </div>
       <h1>Alumni</h1>
+      
     </Layout>
   );
 };
